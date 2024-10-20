@@ -8,6 +8,18 @@ const Product=({navigation})=>{
      <Text>
       Product
      </Text>
+      <Text>
+      Product
+     </Text>
+      <Text>
+      Product
+     </Text>
+      <Text>
+      Product
+     </Text>
+      <Text>
+      Product
+     </Text>
      </View>
     </SafeAreaView>
   )
